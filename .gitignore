@@ -1,0 +1,7 @@
+# Python 環境
+.venv/
+__pycache__/
+*.pyc
+
+# 模型與推論引擎不在這個 repo，也不在這個目錄底下 ——
+# 它們在 typeless.py 的 ASR_HOME 指的地方，見 README。
